@@ -110,10 +110,6 @@ This project helps identify EV charging demand patterns and provides data-driven
 
 ---
 
-## 📷 Screenshots
-_Add your Power BI dashboard screenshots here_
-
----
 
 ## 👨‍💻 Author
 Saniya Unus Shaikh
